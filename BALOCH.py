@@ -1,3 +1,2 @@
-from RASHID import run_tool
-run_tool()
-
+from RASHID import auth_guard
+auth_guard()
