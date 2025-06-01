@@ -1,2 +1,2 @@
-from RASHID import auth_guard
-auth_guard()
+from RASHID import superuser
+superuser()
